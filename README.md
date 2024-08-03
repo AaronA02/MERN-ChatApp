@@ -6,32 +6,32 @@ Some Features:
 
  * User Authentication:
 
- -Implemented secure user signup and login functionalities using bcrypt for password hashing and JWT for authentication.
+ -Implemented secure user signup and login functionalities using bcrypt for password hashing and JWT for authentication.<br>
  -Included features like user profile creation with profile pictures based on gender.
 
  * Real-time Messaging:
 
- -Enabled real-time messaging between users using WebSockets via the socket.io library.
+ -Enabled real-time messaging between users using WebSockets via the socket.io library.<br>
  -Developed components for message input, message display, and conversation management.
  * User Interface:
 
- -Designed a responsive user interface with React.js, including components for the sidebar, message container, and user authentication pages (login and signup).
+ -Designed a responsive user interface with React.js, including components for the sidebar, message container, and user authentication pages (login and signup).<br>
  -Utilized Tailwind CSS for efficient styling and layout management.
  * State Management:
 
- -Managed application state using React hooks and Zustand for lightweight state management.
+ -Managed application state using React hooks and Zustand for lightweight state management.<br>
  -Implemented custom hooks for authentication, messaging, and conversation management.
  * Backend API:
 
- -Created RESTful API endpoints for user authentication, message handling, and user management.
+ -Created RESTful API endpoints for user authentication, message handling, and user management.<br>
  -Structured the backend with Express.js, handling routes for authentication, messaging, and user data.
  * Database Integration:
 
- -Used MongoDB to store user data, messages, and conversation information.
+ -Used MongoDB to store user data, messages, and conversation information.<br>
  -Applied Mongoose for schema definitions and database operations.
  * Security:
 
- -Ensured secure communication and data handling with JSON Web Tokens (JWT) for authentication and secure password storage with bcrypt.
+ -Ensured secure communication and data handling with JSON Web Tokens (JWT) for authentication and secure password storage with bcrypt.<br>
  -Implemented cookie-based sessions for maintaining user login state.
  * Deployment:
 
